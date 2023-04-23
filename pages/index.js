@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="ARAIA CAPITAL LTD" />
-        <p className="description">
-          creating a better tomorrow
-        </p>
+        <img src="https://main--araia-capital.netlify.app/logo-araia-capital.png"></img>
         <p className="description">
           contact us at hello[at]araia.capital
         </p>
