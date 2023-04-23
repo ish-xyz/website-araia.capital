@@ -30,7 +30,7 @@ code {
 .container {
   height: 100vh;
   display: flex;
-  background: #111;
+  background: #1d252f;
   flex-direction: column;
   justify-content: center;
   align-items: center;
