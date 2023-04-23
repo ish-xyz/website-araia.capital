@@ -14,7 +14,6 @@ main {
   padding: 5rem 0;
   flex: 1;
   display: flex;
-  color: white;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -30,7 +29,6 @@ code {
 .container {
   height: 100vh;
   display: flex;
-  background: #1d252f;
   flex-direction: column;
   justify-content: center;
   align-items: center;
