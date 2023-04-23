@@ -14,13 +14,10 @@ export default function Home() {
         <Header title="Araia Capital LTD" />
         <p className="description">
           creating a better tomorrow
-        </p>
-        <p className="description">
-          <code>contact us at hello[at]araia.capital</code>
+          <span style=""> contact us at hello[at]araia.capital </span>
         </p>
       </main>
 
-      <Footer />
     </div>
   )
 }
