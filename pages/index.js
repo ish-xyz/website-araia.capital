@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="https://main--araia-capital.netlify.app/logo-araia-capital.png"></img>
+        <img src="/logo-araia-capital.png" style="width:600px;"></img>
         <p className="description">
           contact us at hello[at]araia.capital
         </p>
