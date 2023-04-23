@@ -17,7 +17,7 @@ export default function Home() {
           <span style=""> contact us at hello[at]araia.capital </span>
         </p>
       </main>
-
+      <Footer />
     </div>
   )
 }
