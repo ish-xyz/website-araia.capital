@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Araia Capital LTD!" />
+        <Header title="Araia Capital LTD" />
         <p className="description">
           creating a better tomorrow
+        </p>
+        <p className="description">
+          <code>contact us at hello[at]araia.capital</code>
         </p>
       </main>
 
